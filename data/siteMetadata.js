@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: "Digital Garden",
+  title: "Personal Blog",
   author: 'Devin MacGillivray',
-  headerTitle: 'blog.devhmac',
-  description: 'My own personal digial garden',
+  headerTitle: '@devhmac',
+  description: 'My own personal blog and digial garden. A creative oulet to discuss and write about my interests.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.devhmac.com/',

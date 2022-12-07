@@ -4,6 +4,7 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
+import About from './about'
 
 import NewsletterForm from '@/components/NewsletterForm'
 
