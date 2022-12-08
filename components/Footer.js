@@ -21,11 +21,9 @@ export default function Footer() {
           {/* <div>{` • `}</div> */}
           {/* <Link href="/">{siteMetadata.title}</Link> */}
         </div>
-        {/* <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-          <Link href="https://github.com/devhmac/blog.devhmac">
-            'Open Source Repo'
-          </Link>
-        </div> */}
+        <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
+          <Link href="https://www.devhmac.com/">To my professional portfolio</Link>
+        </div>
       </div>
     </footer>
   )
