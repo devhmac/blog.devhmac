@@ -9,8 +9,6 @@ linkedin: https://www.linkedin.com
 github: https://github.com
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am a Data Analyst, statistical storyteller, and technology enthusiast, with skills in full stack web development. I come from a background in the public sector, implementing digital transformation and human centered design to enhance the service experience for citizens.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Im a huge coffee nerd, with a love for all things outdoors. This is my personal blog and digital garden, a creative outlet to document my thoughts and interests.
