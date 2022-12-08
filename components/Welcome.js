@@ -1,6 +1,6 @@
-import siteMetadata from "@/data/siteMetadata"
+import siteMetadata from '@/data/siteMetadata'
 // import Icon from "@/components/icons"
-import Image from "next/image"
+import Image from 'next/image'
 
 export default function Welcome() {
   return (
@@ -13,21 +13,24 @@ export default function Welcome() {
           width={250}
           className="rounded-full"
         />
-        <div className="hover:text-primary-600 dark:hover:text-primary-400 flex space-x-3 pt-6">
+        <div className="flex space-x-3 pt-6 hover:text-primary-600 dark:hover:text-primary-400">
           {/* <Icon kind="twitter" href={siteMetadata.twitter} />
           <Icon kind="linkedin" href={siteMetadata.linkedin} />
           <Icon kind="github" href={siteMetadata.github} /> */}
         </div>
       </div>
-      <div className="prose dark:prose-dark pt-8 pb-8 xl:col-span-2">
+      <div className="prose pt-8 pb-8 dark:prose-dark xl:col-span-2">
         <h2>Devin MacGillivray</h2>
         <p>
-          I am a Data Analyst, statistical storyteller, and technology enthusiast, with skills in full stack web development. Im a huge coffee nerd, with a love for all things outdoors. This is my personal blog and digital garden, a creative outlet to document my thoughts and interests.
+          I am a Data Analyst, statistical storyteller, and technology enthusiast, with skills in
+          full stack web development. Im a huge coffee nerd, with a love for all things outdoors.
+          This is my personal blog and digital garden, a creative outlet to document my thoughts and
+          interests.
           <br />
-          If your interested in my work see the link to my professional portfolio below. Dont hesitate to {" "}
-          <a href="https://www.linkedin.com/in/devhmac/"> reach out</a>.
+          If your interested in my work see the link to my professional portfolio below. Dont
+          hesitate to <a href="https://www.linkedin.com/in/devhmac/"> reach out</a>.
         </p>
-        <div className="hover:text-primary-600 dark:hover:text-primary-400 flex space-x-3 pt-6">
+        <div className="flex space-x-3 pt-6 hover:text-primary-600 dark:hover:text-primary-400">
           {/* put links in here */}
         </div>
       </div>

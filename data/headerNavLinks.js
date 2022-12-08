@@ -4,7 +4,6 @@ const headerNavLinks = [
   // { href: '/projects', title: 'Projects' },
   { href: 'https://www.devhmac.com/', title: 'Portfolio' },
   { href: '/tags', title: 'Tags' },
-
 ]
 
 export default headerNavLinks
