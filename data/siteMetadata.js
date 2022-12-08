@@ -2,7 +2,7 @@ const siteMetadata = {
   title: "Personal Blog",
   author: 'Devin MacGillivray',
   headerTitle: '@devhmac',
-  description: 'My own personal blog and digial garden. A creative oulet to discuss and write about my interests.',
+  description: '',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.devhmac.com/',
