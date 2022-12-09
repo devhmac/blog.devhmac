@@ -1,6 +1,8 @@
 import siteMetadata from '@/data/siteMetadata'
 // import Icon from "@/components/icons"
 import Image from 'next/image'
+import Link from './Link'
+
 
 export default function Welcome() {
   return (
@@ -19,7 +21,7 @@ export default function Welcome() {
           <Icon kind="github" href={siteMetadata.github} /> */}
         </div>
       </div>
-      <div className="prose pt-8 pb-8 dark:prose-dark xl:col-span-2">
+      <div className=" prose pt-8 pb-8 no-underline dark:prose-dark xl:col-span-2">
         <h2>Devin MacGillivray</h2>
         <p>
           I am a Data Analyst, statistical storyteller, and technology enthusiast, with skills in
@@ -77,11 +79,11 @@ export default function Welcome() {
             </svg>
             <span className="hidden sm:inline">GitHub</span>
           </a>
-          <a
+          <Link
             href="https://twitter.com/devhmac"
             rel="noreferrer"
             target="_blank"
-            className="group relative m-1 inline-flex cursor-pointer items-center justify-center rounded border-b-4 border-l-2 border-green-700 bg-gradient-to-tr from-green-600 to-green-500 px-3.5 py-2 text-white shadow-lg active:border-green-600 active:shadow-none"
+            className="group relative m-1 inline-flex cursor-pointer items-center justify-center rounded border-b-4 border-l-2 border-green-700 bg-gradient-to-tr from-green-600 to-green-500 px-3.5 py-2 text-white  shadow-lg active:border-green-600  active:shadow-none"
           >
             <span className="absolute h-0 w-0 rounded-full bg-white opacity-10 transition-all duration-300 ease-out group-hover:h-32 group-hover:w-32"></span>
             <svg height="24" role="presentation" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -92,8 +94,8 @@ export default function Welcome() {
                 fillRule="evenodd"
               />
             </svg>
-            <span className="relative text-white">Twitter</span>
-          </a>
+            <span className="relative text-white ">Twitter</span>
+          </Link>
         </div>
         <div className="flex space-x-3 pt-6 hover:text-gray-600 dark:hover:text-gray-400">
           {/* put links in here */}
