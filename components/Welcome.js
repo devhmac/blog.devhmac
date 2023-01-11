@@ -23,12 +23,12 @@ export default function Welcome() {
       <div className=" prose pt-8 pb-8 no-underline dark:prose-dark xl:col-span-2">
         <h2>Devin MacGillivray</h2>
         <p>
-          I am a Data Analyst, statistical storyteller, and technology enthusiast, with skills in
+          I'm a Data Analyst, Business Intelligence Engineer, and technology enthusiast, with skills in
           full stack web development. Im a huge coffee nerd, with a love for all things outdoors.
           This is my personal blog and digital garden, a creative outlet to document my thoughts and
           interests.
           <br />
-          If your interested in my work see the link to my professional portfolio below. Dont
+          If your interested in my work see the link to my professional portfolio below, and don't
           hesitate to <a href="https://www.linkedin.com/in/devhmac/"> reach out</a>.
         </p>
         <div className="mt-8 flex flex-wrap gap-4 text-center">
