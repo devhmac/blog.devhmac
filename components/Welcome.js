@@ -23,8 +23,8 @@ export default function Welcome() {
       <div className=" prose pt-8 pb-8 no-underline dark:prose-dark xl:col-span-2">
         <h2>Devin MacGillivray</h2>
         <p>
-          I'm a Data Analyst, Business Intelligence Engineer, and technology enthusiast, with skills
-          in full stack web development. I'm a coffee nerd, with a love for all things outdoors.
+          A Data Analyst, Business Intelligence Engineer, and technology enthusiast, with skills
+          in full stack web development. I'm a coffee nerd with a love for basketball and all things outdoors.
           This is my personal blog and digital garden, a creative outlet to document my thoughts and
           interests.
           <br />
